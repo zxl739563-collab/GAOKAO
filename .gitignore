@@ -1,0 +1,10 @@
+# Obsidian workspace & cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/hotkey.json
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
