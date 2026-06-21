@@ -3,8 +3,19 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .obsidian/hotkey.json
+.obsidian/graph.json
 
 # System
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 爬虫运行时输出（不纳入版本管理）
+91-脚本工具/*/logs/
+91-脚本工具/*/output/
+91-脚本工具/*/parsed/
