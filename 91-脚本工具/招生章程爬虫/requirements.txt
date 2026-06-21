@@ -1,0 +1,17 @@
+# 招生章程爬虫工具 - Python 依赖
+# 安装方式：pip install -r requirements.txt
+
+# 浏览器自动化（绕过反爬）
+selenium>=4.15.0
+
+# 自动管理 ChromeDriver 版本，免手动下载
+webdriver-manager>=4.0.0
+
+# HTML 解析
+beautifulsoup4>=4.12.0
+
+# XML/HTML 快速解析（BeautifulSoup 的加速后端）
+lxml>=4.9.0
+
+# HTTP 请求（备用，部分页面用 requests 更快）
+requests>=2.31.0
